@@ -45,7 +45,6 @@
         "moment": "2.24.0"
     },
     "scripts": {
-        "build2": "grunt",
-        "build": "rm -rf dist && mkdir dist && cp -a src/* dist"
+        "build": "grunt"
     }
 }
